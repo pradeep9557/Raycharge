@@ -1,0 +1,7 @@
+{
+  "name": "Raycharge",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
